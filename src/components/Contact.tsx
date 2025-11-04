@@ -38,21 +38,21 @@ export function Contact() {
     {
       icon: Phone,
       title: 'Telefone',
-      content: '+55 (11) 98765-4321',
+      content: '+55 (83) 98765-4321',
       link: 'tel:+5511987654321'
     },
     {
       icon: MapPin,
       title: 'Endereço',
-      content: 'Universidade Federal - Campus Central, São Paulo, SP',
+      content: 'Universidade Federal - Campus IV, Rio Tinto, PB',
       link: '#'
     }
   ];
 
   const socialLinks = [
     { icon: Linkedin, label: 'LinkedIn', link: '#' },
-    { icon: Instagram, label: 'Instagram', link: '#' },
-    { icon: Github, label: 'GitHub', link: '#' }
+    { icon: Instagram, label: 'Instagram', link: 'https://www.instagram.com/inovasociety/?utm_source=ig_web_button_share_sheet' },
+    { icon: Github, label: 'GitHub', link: 'https://github.com/inovaSociety' }
   ];
 
   return (

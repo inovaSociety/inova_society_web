@@ -11,49 +11,49 @@ export function Team() {
       color: 'from-blue-500 to-blue-600'
     },
     {
-      name: 'Rafael Santos',
+      name: 'João Miguel Santos',
       role: 'CTO',
       area: 'Arquitetura de Software',
       initials: 'RS',
       color: 'from-indigo-500 to-indigo-600'
     },
     {
-      name: 'Beatriz Oliveira',
+      name: 'Laísa Maria',
       role: 'Designer UI/UX',
       area: 'Design de Interfaces',
       initials: 'BO',
       color: 'from-violet-500 to-violet-600'
     },
     {
-      name: 'Lucas Mendes',
+      name: 'Gabriela Porto',
       role: 'Desenvolvedor Full Stack',
       area: 'Desenvolvimento Web',
       initials: 'LM',
       color: 'from-purple-500 to-purple-600'
     },
     {
-      name: 'Camila Rodrigues',
+      name: 'Pedro Augusto',
       role: 'Desenvolvedora Front-end',
       area: 'React & TypeScript',
       initials: 'CR',
       color: 'from-pink-500 to-pink-600'
     },
     {
-      name: 'Pedro Almeida',
+      name: 'Davi Marques',
       role: 'Desenvolvedor Back-end',
       area: 'Node.js & Databases',
       initials: 'PA',
       color: 'from-blue-600 to-blue-700'
     },
     {
-      name: 'Mariana Costa',
+      name: 'Rian ',
       role: 'Gestora de Projetos',
       area: 'Metodologias Ágeis',
       initials: 'MC',
       color: 'from-cyan-500 to-cyan-600'
     },
     {
-      name: 'Gabriel Ferreira',
+      name: 'Kamilly Pereira',
       role: 'Desenvolvedor Mobile',
       area: 'React Native',
       initials: 'GF',
